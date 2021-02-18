@@ -1,4 +1,4 @@
 # drone-arduino-control
-lazarus version: 2.0.0
-uses: CProtLib by alexx2000 (https://github.com/alexx2000/lazcomport)
+nim version: 1.4.2
+uses: serial by euantorano (https://github.com/euantorano/serial.nim)
 
