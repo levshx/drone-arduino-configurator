@@ -1,4 +1,4 @@
-# drone-arduino-control
+# drone-arduino-configurator
 ### Description
 TO DO
 
